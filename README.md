@@ -9,7 +9,7 @@ In assignment 1 there was a focus on preparing and exploring the inventory datas
 
 - We re-named columns to match the metadata. 
 
--Corrected any data-entry errors i.e. lead times with extra zeros or negative unit prices and negative quantities. 
+- Corrected any data-entry errors i.e. lead times with extra zeros or negative unit prices and negative quantities. 
 
 - Handled missing values in five columns with "unknown".
 
@@ -24,9 +24,9 @@ In assignment 2 focused on inventory management and safety stock analysis. We di
   
 - Calculated safety stock
 
--Found the SKUs with the largest and smallest safety stock 
+- Found the SKUs with the largest and smallest safety stock 
 
--Tested the formula's normal distribution assumption against a non-parametric method based on empirical quantiles. 
+- Tested the formula's normal distribution assumption against a non-parametric method based on empirical quantiles. 
 
 
   
